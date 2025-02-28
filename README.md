@@ -14,8 +14,8 @@ This project processes JSON order data from a dosa restaurant and generates two 
 ## How to run: -
 ### Step 1: Clone the provided Repository
 Commands: -
-git clone https://github.com/ajayaddada/IS601_midterm_project.git
-cd midterm_project
+- git clone https://github.com/ajayaddada/IS601_midterm_project.git 
+- cd midterm_project
 
 ### Step 2: Run the Python Script
 python process_orders.py example_orders.json
