@@ -1,0 +1,106 @@
+{
+    "Cheese Masala Dosa": {
+        "price": 13.95,
+        "orders": 2
+    },
+    "Onion Dosa": {
+        "price": 11.95,
+        "orders": 1
+    },
+    "Cheese & Onion Chilli Masala Dosa": {
+        "price": 12.95,
+        "orders": 3
+    },
+    "Onion Rava Mysore Masala Dosa": {
+        "price": 14.95,
+        "orders": 2
+    },
+    "Butter Masala Dosa": {
+        "price": 12.95,
+        "orders": 5
+    },
+    "Madurai Masala Dosa": {
+        "price": 12.95,
+        "orders": 4
+    },
+    "Sada Dosa": {
+        "price": 9.95,
+        "orders": 1
+    },
+    "Cheese Madurai Masala Dosa": {
+        "price": 13.95,
+        "orders": 3
+    },
+    "Onion Chilli Masala Dosa": {
+        "price": 11.95,
+        "orders": 6
+    },
+    "Gun Powder Dosa": {
+        "price": 13.95,
+        "orders": 4
+    },
+    "Onion Chilli Rava Masala Dosa": {
+        "price": 14.95,
+        "orders": 3
+    },
+    "Cheese Dosa": {
+        "price": 13.95,
+        "orders": 1
+    },
+    "Chilli Dosa": {
+        "price": 11.95,
+        "orders": 1
+    },
+    "Masala Dosa": {
+        "price": 11.95,
+        "orders": 6
+    },
+    "Butter chilli Dosa": {
+        "price": 12.95,
+        "orders": 1
+    },
+    "Butter Mysore Masala Dosa": {
+        "price": 11.95,
+        "orders": 1
+    },
+    "Malgudi Onion Rava Masala Dosa": {
+        "price": 14.95,
+        "orders": 3
+    },
+    "Guntur Dosa": {
+        "price": 13.95,
+        "orders": 1
+    },
+    "Ghee Masala Dosa": {
+        "price": 11.95,
+        "orders": 1
+    },
+    "Guntur masala Dosa": {
+        "price": 10.95,
+        "orders": 1
+    },
+    "Cheese Mysore Masala Dosa": {
+        "price": 13.95,
+        "orders": 1
+    },
+    "Bhimavaram Masala Dosa": {
+        "price": 10.95,
+        "orders": 1
+    },
+    "Onion Chilli Dosa": {
+        "price": 11.95,
+        "orders": 1
+    },
+    "Butter Dosa": {
+        "price": 12.95,
+        "orders": 1
+    },
+    "Mysore Masala Dosa": {
+        "price": 11.95,
+        "orders": 1
+    },
+    "Karam Dosa": {
+        "price": 10.95,
+        "orders": 1
+    }
+}
